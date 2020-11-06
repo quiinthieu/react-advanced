@@ -26,245 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="839f594e-b73c-4a06-afa5-0ff624b96932" name="Default Changelist" comment="Version 1.1.0">
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-131.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-133.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-134.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-136.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-137.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-138.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-140.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-141.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-142.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-143.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-145.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-146.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-147.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-148.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-165.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-166.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-168.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-169.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-170.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-171.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-173.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-174.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-175.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-176.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-177.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-178.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-179.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-181.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-182.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-183.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-185.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-186.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-187.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-188.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-189.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-190.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-191.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-193.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-194.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-195.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-196.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-197.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-198.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-199.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-201.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-202.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-203.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-204.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-205.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-206.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-207.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-208.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-209.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-210.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-211.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-212.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-213.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-224.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-226.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-227.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-228.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-229.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-231.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-232.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-233.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-234.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-235.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-237.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-238.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-239.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-241.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-242.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-243.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-244.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-246.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-247.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-248.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-249.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-250.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-251.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-252.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-253.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-254.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-255.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-257.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-258.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-259.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-260.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-261.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-262.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-263.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-264.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-265.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-266.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-267.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-268.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-269.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-270.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-271.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-272.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-273.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-274.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-275.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-277.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-278.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-279.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-281.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-282.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-283.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-284.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-285.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-82.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-83.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-86.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-88.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-89.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-92.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-93.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-94.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-95.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-97.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-99.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-118.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-119.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-123.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-126.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-127.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-129.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-family-130.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design-halloween-2020-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design214.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design215.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design216.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design217.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design218.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design219.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design220.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design221.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design222.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/abstrakt-design223.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/1-useState/final/2-useState-basics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/1-useState/final/2-useState-basics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/1-useState/setup/1-error-example.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/1-useState/setup/1-error-example.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/1-useState/setup/2-useState-basics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/1-useState/setup/2-useState-basics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/1-useState/setup/3-useState-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/1-useState/setup/3-useState-array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/1-useState/setup/4-useState-object.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/1-useState/setup/4-useState-object.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/1-useState/setup/5-useState-counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/1-useState/setup/5-useState-counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/2-useEffect/setup/1-useEffect-basics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/2-useEffect/setup/1-useEffect-basics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/2-useEffect/setup/2-useEffect-cleanup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/2-useEffect/setup/2-useEffect-cleanup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/2-useEffect/setup/3-useEffect-fetch-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/2-useEffect/setup/3-useEffect-fetch-data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/3-conditional-rendering/setup/1-multiple-returns.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/3-conditional-rendering/setup/1-multiple-returns.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/3-conditional-rendering/setup/2-short-circuit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/3-conditional-rendering/setup/2-short-circuit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/3-conditional-rendering/setup/3-show-hide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/3-conditional-rendering/setup/3-show-hide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/4-forms/setup/1-controlled-inputs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/4-forms/setup/1-controlled-inputs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/4-forms/setup/2-multiple-inputs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/4-forms/setup/2-multiple-inputs.js" afterDir="false" />
-    </list>
+    <list default="true" id="839f594e-b73c-4a06-afa5-0ff624b96932" name="Default Changelist" comment="Version 1.1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -341,7 +103,7 @@
       <workItem from="1604498202674" duration="4532000" />
       <workItem from="1604549827369" duration="2163000" />
       <workItem from="1604651243642" duration="47000" />
-      <workItem from="1604662139117" duration="22000" />
+      <workItem from="1604662139117" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.1.0">
       <created>1604391551449</created>
@@ -350,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604391551449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Version 1.1.1">
+      <created>1604662252221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604662252221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +136,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -382,40 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Version 1.1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.1.0" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="949" y="149" key="#JavaScript" timestamp="1604489295483">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="949" y="149" key="#JavaScript/0.0.1920.1040@0.0.1920.1040" timestamp="1604489295483" />
-    <state x="688" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604479641719">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="688" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604479641719" />
-    <state x="868" y="275" key="FileChooserDialogImpl" timestamp="1604553575282">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="868" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604553575282" />
-    <state width="1327" height="194" key="GridCell.Tab.0.bottom" timestamp="1604502773316">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1327" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604502773316" />
-    <state width="1327" height="194" key="GridCell.Tab.0.center" timestamp="1604502773316">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1327" height="194" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604502773316" />
-    <state width="1327" height="194" key="GridCell.Tab.0.left" timestamp="1604502773316">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1327" height="194" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604502773316" />
-    <state width="1327" height="194" key="GridCell.Tab.0.right" timestamp="1604502773316">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1327" height="194" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604502773316" />
-    <state x="474" y="106" width="1446" height="718" key="SettingsEditor" timestamp="1604498194888">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="474" y="106" width="1446" height="718" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604498194888" />
+    <MESSAGE value="Version 1.1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.1.1" />
   </component>
 </project>
