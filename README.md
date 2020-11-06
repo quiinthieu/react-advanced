@@ -2,21 +2,21 @@
 
 #### useState
 
-1. Birthday Reminder
+1. Birthday Reminder --> DONE
 
 #### useEffect and Conditional Rendering
 
-2. Tours
-3. Reviews
-4. Accordion
-5. Menu
-6. Tabs
-7. Slider
+2. Tours --> DONE
+3. Reviews --> DONE
+4. Accordion --> DONE
+5. Menu --> DONE
+6. Tabs --> DONE
+7. Slider --> DONE
 
 #### Forms
 
-8. Lorem Ipsum Generator
-9. Color Shades Generator
+8. Lorem Ipsum Generator --> DONE
+9. Color Shades Generator --> In-processing
 10. Grocery Bud
 
 #### useRef
