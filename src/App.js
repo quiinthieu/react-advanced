@@ -13,12 +13,15 @@ import React from 'react';
 // import ControlledInputs from "./tutorial/4-forms/setup/1-controlled-inputs";
 // import MultipleInputs from "./tutorial/4-forms/setup/2-multiple-inputs";
 // import UseRefBasics from "./tutorial/5-useRef/setup/1-useRef-basics";
-import Index from "./tutorial/6-useReducer/setup";
+// import Index from "./tutorial/6-useReducer/setup";
+// import PropDrilling from "./tutorial/7-prop-drilling/setup/1-prop-drilling";
+// import ContextAPI from "./tutorial/8-useContext/setup/1-context-api";
+import Example from "./tutorial/9-custom-hooks/setup/1-fetch-example";
 
 function App() {
     return (
         <div className='container'>
-            <Index />
+            <Example />
         </div>
     )
 }

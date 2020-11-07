@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react';
+import React, {useEffect, useState} from 'react';
 // by default runs after every re-render
 // cleanup function
 // second parameter

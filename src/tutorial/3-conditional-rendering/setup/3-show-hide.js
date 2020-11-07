@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react';
+import React, {useEffect, useState} from 'react';
 
 const ShowHide = () => {
     const [show, setShow] = useState(false);
@@ -7,7 +7,7 @@ const ShowHide = () => {
         <React.Fragment>
             <h2>show/hide</h2>
             <button onClick={() => setShow(!show)} type={"button"} className={"btn"}>Show/Hide</button>
-            {show && <Item />}
+            {show && <Item/>}
         </React.Fragment>
     );
 };
