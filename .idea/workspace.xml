@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -28,9 +31,17 @@
   <component name="ChangeListManager">
     <list default="true" id="839f594e-b73c-4a06-afa5-0ff624b96932" name="Default Changelist" comment="Version 1.1.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/9-custom-hooks/setup/1-fetch-example.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/9-custom-hooks/setup/1-fetch-example.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/9-custom-hooks/setup/2-useFetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/9-custom-hooks/setup/2-useFetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/10-prop-types/setup/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/10-prop-types/setup/Product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/10-prop-types/setup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/10-prop-types/setup/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/Error.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/Error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/People.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/People.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/11-react-router/setup/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/12-memo-useMemo-useCallback/setup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/12-memo-useMemo-useCallback/setup/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +73,8 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -71,7 +84,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="indent.rainbow.settings.IrConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -123,7 +136,8 @@
       <workItem from="1604743140585" duration="2432000" />
       <workItem from="1604748757125" duration="2651000" />
       <workItem from="1604755554602" duration="35000" />
-      <workItem from="1604755604476" duration="250000" />
+      <workItem from="1604755604476" duration="1340000" />
+      <workItem from="1604756968546" duration="5807000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.1.0">
       <created>1604391551449</created>
@@ -167,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604744702450</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Version 1.1.6">
+      <created>1604756076373</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604756076373</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +197,28 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -195,6 +238,11 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,6 +252,7 @@
     <MESSAGE value="Version 1.1.3" />
     <MESSAGE value="Version 1.1.4" />
     <MESSAGE value="Version 1.1.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.1.5" />
+    <MESSAGE value="Version 1.1.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.1.6" />
   </component>
 </project>

@@ -15,6 +15,7 @@ const calculateMostExpensive = (data) => {
         }, 0) / 100
     );
 };
+
 const Index = () => {
     const {products} = useFetch(url);
     const [count, setCount] = useState(0);
@@ -27,6 +28,7 @@ const Index = () => {
     const mostExpensive = useMemo(() => calculateMostExpensive(products), [
         products,
     ]);
+
 
     return (
         <>
@@ -52,8 +54,7 @@ const BigList = React.memo(({products, addToCart}) => {
                     <SingleProduct
                         key={product.id}
                         {...product}
-                        addToCart={addToCart}
-                    ></SingleProduct>
+                        addToCart={addToCart}/>
                 );
             })}
         </section>
