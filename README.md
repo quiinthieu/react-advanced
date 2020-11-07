@@ -16,8 +16,8 @@
 #### Forms
 
 8. Lorem Ipsum Generator --> DONE
-9. Color Shades Generator --> In-processing
-10. Grocery Bud
+9. Color Shades Generator --> DONE
+10. Grocery Bud --> DONE
 
 #### useRef
 

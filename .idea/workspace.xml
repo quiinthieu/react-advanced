@@ -26,7 +26,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="839f594e-b73c-4a06-afa5-0ff624b96932" name="Default Changelist" comment="Version 1.1.0" />
+    <list default="true" id="839f594e-b73c-4a06-afa5-0ff624b96932" name="Default Changelist" comment="Version 1.1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/4-forms/setup/1-controlled-inputs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/4-forms/setup/1-controlled-inputs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/4-forms/setup/2-multiple-inputs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/4-forms/setup/2-multiple-inputs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/5-useRef/setup/1-useRef-basics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/5-useRef/setup/1-useRef-basics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/6-useReducer/setup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/6-useReducer/setup/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +111,8 @@
       <workItem from="1604498202674" duration="4532000" />
       <workItem from="1604549827369" duration="2163000" />
       <workItem from="1604651243642" duration="47000" />
-      <workItem from="1604662139117" duration="145000" />
+      <workItem from="1604662139117" duration="721000" />
+      <workItem from="1604726969162" duration="3022000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.1.0">
       <created>1604391551449</created>
@@ -119,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604662252221</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Version 1.1.2">
+      <created>1604662296731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604662296731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Version 1.1.0" />
     <MESSAGE value="Version 1.1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.1.1" />
+    <MESSAGE value="Version 1.1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.1.2" />
   </component>
 </project>

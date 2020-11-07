@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 // JS
 // const input = document.getElementById('myText');
 // const inputValue = input.value
@@ -12,7 +12,12 @@ const MultipleInputs = () => {
         email: '',
         age: ''
     });
-    const [people, setPeople] = useState([]);
+
+    const [people, setPeople] = useState(JSON.parse(localStorage.getItem('people')) || []);
+
+    useEffect(() => {
+        localStorage.setItem('people', JSON.stringify(people));
+    }, [people]);
 
     const handleSubmit = e => {
         e.preventDefault();
@@ -20,10 +25,10 @@ const MultipleInputs = () => {
         if (firstName && email && age) {
             const person = {id: new Date(), firstName, email, age};
             setPeople([...people, person]);
+            setPerson({firstName: '', email: '', age: ''});
         } else {
             alert('Invalid input(s)');
         }
-
     };
 
     const handleChange = e => {
@@ -58,10 +63,11 @@ const MultipleInputs = () => {
                     <button type={"submit"} onClick={e => handleSubmit(e)}>Add Person</button>
                 </form>
                 {people.map(person => {
-                    const {id, firstName, email} = person;
+                    const {id, firstName, email, age} = person;
                     return (
                         <div key={id} className={"item"}>
-                            <p>{firstName}</p>
+                            <h4>{firstName}</h4>
+                            <p>{age}</p>
                             <p>{email}</p>
                             <button type="button" onClick={() => removePerson(id)}>Remove</button>
                         </div>

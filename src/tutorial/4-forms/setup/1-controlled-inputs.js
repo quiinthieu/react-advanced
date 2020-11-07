@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 // JS
 // const input = document.getElementById('myText');
 // const inputValue = input.value
@@ -8,18 +8,24 @@ import React, {useState} from 'react';
 const ControlledInputs = () => {
     const [firstName, setFirstName] = useState('');
     const [email, setEmail] = useState('');
-    const [people, setPeople] = useState([]);
+    const [people, setPeople] = useState(JSON.parse(localStorage.getItem('people')) || []);
 
     const handleSubmit = e => {
         e.preventDefault();
         if (firstName && email) {
             const person = {id: new Date(), firstName, email};
             setPeople(prevState => [...prevState, person]);
+            setFirstName('');
+            setEmail('');
         } else {
             alert('Invalid input(s)');
         }
 
     };
+
+    useEffect(() => {
+        localStorage.setItem('people', JSON.stringify(people));
+    }, [people]);
 
     const removePerson = id => {
         setPeople(prevState => prevState.filter(person => person.id !== id));
@@ -43,7 +49,7 @@ const ControlledInputs = () => {
                     const {id, firstName, email} = person;
                     return (
                         <div key={id} className={"item"}>
-                            <p>{firstName}</p>
+                            <h4>{firstName}</h4>
                             <p>{email}</p>
                             <button type="button" onClick={() => removePerson(id)}>Remove</button>
                         </div>
